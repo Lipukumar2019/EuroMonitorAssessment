@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9797" started-at="2021-12-25T18:47:31 IST" finished-at="2021-12-25T18:47:41 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="9797" started-at="2021-12-25T18:47:31 IST" finished-at="2021-12-25T18:47:41 IST">
+      <class name="com.swag.smoke.AddToCart_Validation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.swag.smoke.AddToCart_Validation@2d928643]" name="setUp" is-config="true" duration-ms="4656" started-at="2021-12-25T18:47:26 IST" finished-at="2021-12-25T18:47:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loadUrl()[pri:0, instance:com.swag.smoke.AddToCart_Validation@2d928643]" name="loadUrl" is-config="true" duration-ms="7433" started-at="2021-12-25T18:47:31 IST" finished-at="2021-12-25T18:47:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+        <test-method status="PASS" signature="appLogin()[pri:1, instance:com.swag.smoke.AddToCart_Validation@2d928643]" name="appLogin" duration-ms="1400" started-at="2021-12-25T18:47:38 IST" finished-at="2021-12-25T18:47:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="additemToCartAndVerify()[pri:2, instance:com.swag.smoke.AddToCart_Validation@2d928643]" name="additemToCartAndVerify" duration-ms="900" started-at="2021-12-25T18:47:40 IST" finished-at="2021-12-25T18:47:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additemToCartAndVerify -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.swag.smoke.AddToCart_Validation@2d928643]" name="quitDriver" is-config="true" duration-ms="6540" started-at="2021-12-25T18:47:41 IST" finished-at="2021-12-25T18:47:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.swag.smoke.AddToCart_Validation -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

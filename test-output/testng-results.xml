@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61363" started-at="2018-07-20T08:38:19Z" finished-at="2018-07-20T08:39:21Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="61363" started-at="2018-07-20T08:38:19Z" finished-at="2018-07-20T08:39:21Z">
+      <class name="com.apple.iEvalHomePage.Verify_PanelAccessibleTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.apple.iEvalHomePage.Verify_PanelAccessibleTest@271053e1]" name="setup" is-config="true" duration-ms="3557" started-at="2018-07-20T14:08:16Z" finished-at="2018-07-20T14:08:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[safari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loadUrl()[pri:0, instance:com.apple.iEvalHomePage.Verify_PanelAccessibleTest@271053e1]" name="loadUrl" is-config="true" duration-ms="9914" started-at="2018-07-20T14:08:19Z" finished-at="2018-07-20T14:08:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+        <test-method status="PASS" signature="adminAccessibleTest()[pri:1, instance:com.apple.iEvalHomePage.Verify_PanelAccessibleTest@271053e1]" name="adminAccessibleTest" duration-ms="8827" started-at="2018-07-20T14:08:29Z" finished-at="2018-07-20T14:08:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminAccessibleTest -->
+        <test-method status="PASS" signature="iEvalUserAccessibleTest()[pri:2, instance:com.apple.iEvalHomePage.Verify_PanelAccessibleTest@271053e1]" name="iEvalUserAccessibleTest" duration-ms="6721" started-at="2018-07-20T14:08:38Z" finished-at="2018-07-20T14:08:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iEvalUserAccessibleTest -->
+        <test-method status="PASS" signature="iEvalSAPArchivingTeamAccessibleTest()[pri:3, instance:com.apple.iEvalHomePage.Verify_PanelAccessibleTest@271053e1]" name="iEvalSAPArchivingTeamAccessibleTest" duration-ms="7026" started-at="2018-07-20T14:08:45Z" finished-at="2018-07-20T14:08:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iEvalSAPArchivingTeamAccessibleTest -->
+        <test-method status="PASS" signature="iEvalSAPGlobalDesignAdminAccessibleTest()[pri:4, instance:com.apple.iEvalHomePage.Verify_PanelAccessibleTest@271053e1]" name="iEvalSAPGlobalDesignAdminAccessibleTest" duration-ms="6783" started-at="2018-07-20T14:08:52Z" finished-at="2018-07-20T14:08:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iEvalSAPGlobalDesignAdminAccessibleTest -->
+        <test-method status="PASS" signature="iEvalSAPHandoverTeamAdminAccessibleTest()[pri:5, instance:com.apple.iEvalHomePage.Verify_PanelAccessibleTest@271053e1]" name="iEvalSAPHandoverTeamAdminAccessibleTest" duration-ms="6729" started-at="2018-07-20T14:08:59Z" finished-at="2018-07-20T14:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iEvalSAPHandoverTeamAdminAccessibleTest -->
+        <test-method status="PASS" signature="iEvalSAPPerformanceAdminAccessibleTest()[pri:6, instance:com.apple.iEvalHomePage.Verify_PanelAccessibleTest@271053e1]" name="iEvalSAPPerformanceAdminAccessibleTest" duration-ms="7356" started-at="2018-07-20T14:09:05Z" finished-at="2018-07-20T14:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iEvalSAPPerformanceAdminAccessibleTest -->
+        <test-method status="PASS" signature="iEvalSAPSecurityTeamAdminAccessibleTest()[pri:7, instance:com.apple.iEvalHomePage.Verify_PanelAccessibleTest@271053e1]" name="iEvalSAPSecurityTeamAdminAccessibleTest" duration-ms="7987" started-at="2018-07-20T14:09:13Z" finished-at="2018-07-20T14:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iEvalSAPSecurityTeamAdminAccessibleTest -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.apple.iEvalHomePage.Verify_PanelAccessibleTest@271053e1]" name="quitDriver" is-config="true" duration-ms="6321" started-at="2018-07-20T14:09:21Z" finished-at="2018-07-20T14:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.apple.iEvalHomePage.Verify_PanelAccessibleTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
